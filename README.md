@@ -1,0 +1,1 @@
+-Angular.js app which will help an user to plan his budget.
